@@ -1,0 +1,43 @@
+{
+    "user": {
+        "instagram": {
+            "username": "indiamemedanker",
+            "password": ""
+        }
+    
+    },
+    "limits": {
+        "maxRetry": 2,
+        "like": {
+            "min": 0,
+            "max": 10000
+        },
+        "comment": {
+            "min": 100,
+            "max": 10000
+        },
+        "follow": {
+            "min": 200,
+            "max": 10000
+        }
+    },
+    "tags": {
+        "travel": {
+            "like": 10,
+            "comment": 10,
+            "follow": 10
+        },
+        "camping": {
+            "like": 10,
+            "comment": 10,
+            "follow": 10
+        }
+    },
+    "comments": [
+        "awesome",
+        "wow",
+        "nice pic"
+    ],
+    "blacklist": [],
+    "whitelist": []
+}
